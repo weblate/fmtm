@@ -1,0 +1,143 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,1195,100,1220"/>
+<area shape="rect" id="Node000001" href="$classapp_1_1auth_1_1auth__schemas_1_1BaseUser.html" title=" " alt="" coords="164,29,407,55"/>
+<area shape="poly" id="edge1_Node000000_Node000001" title=" " alt="" coords="52,1181,56,950,70,595,82,414,98,254,119,132,132,91,146,66,162,52,166,56,150,69,137,93,125,134,104,255,88,414,76,595,62,950,57,1181"/>
+<area shape="rect" id="Node000004" href="$classapp_1_1central_1_1central__schemas_1_1EntityMappingStatusIn.html" title=" " alt="" coords="166,79,405,119"/>
+<area shape="poly" id="edge4_Node000000_Node000004" title=" " alt="" coords="52,1181,58,962,73,628,85,458,101,307,121,193,133,154,146,130,164,114,167,119,150,133,138,156,126,194,107,308,91,458,78,628,63,962,57,1181"/>
+<area shape="rect" id="Node000005" href="$classapp_1_1central_1_1central__schemas_1_1EntityOsmID.html" title=" " alt="" coords="199,143,372,183"/>
+<area shape="poly" id="edge5_Node000000_Node000005" title=" " alt="" coords="52,1181,59,974,75,660,88,501,103,360,122,253,134,216,146,194,170,175,198,164,200,169,172,180,150,197,138,218,128,254,108,361,93,501,80,660,64,974,57,1181"/>
+<area shape="rect" id="Node000008" href="$classapp_1_1central_1_1central__schemas_1_1EntityProperties.html" title=" " alt="" coords="188,271,383,311"/>
+<area shape="poly" id="edge7_Node000000_Node000008" title=" " alt="" coords="52,1180,62,998,80,727,93,591,108,471,126,379,135,348,146,328,165,312,187,301,189,306,168,316,150,332,140,350,131,381,113,472,98,592,85,728,67,998,58,1181"/>
+<area shape="rect" id="Node000007" href="$classapp_1_1central_1_1central__schemas_1_1EntityTaskID.html" title=" " alt="" coords="199,207,371,247"/>
+<area shape="poly" id="edge8_Node000000_Node000007" title=" " alt="" coords="52,1180,60,985,77,691,90,543,105,412,124,313,134,279,146,258,170,239,198,228,200,233,173,244,150,261,139,281,129,314,110,413,95,544,82,692,65,985,57,1181"/>
+<area shape="rect" id="Node000009" href="$classapp_1_1central_1_1central__schemas_1_1ODKCentral.html" title=" " alt="" coords="202,386,369,426"/>
+<area shape="poly" id="edge10_Node000000_Node000009" title=" " alt="" coords="53,1181,63,1018,83,782,96,664,111,559,127,480,136,453,146,436,171,417,201,407,203,412,174,422,150,440,141,455,132,482,116,560,101,664,88,783,69,1019,58,1181"/>
+<area shape="rect" id="Node000020" href="$classapp_1_1central_1_1central__schemas_1_1ODKCentralDecrypted.html" title=" " alt="" coords="169,501,402,541"/>
+<area shape="poly" id="edge17_Node000000_Node000020" title=" " alt="" coords="51,1181,54,1049,66,860,78,763,94,674,117,601,130,573,146,551,167,535,170,539,150,555,135,575,122,603,100,676,83,764,72,861,59,1049,57,1181"/>
+<area shape="rect" id="Node000021" href="$classapp_1_1central_1_1central__schemas_1_1OdkCentralWebhookRequest.html" title=" " alt="" coords="173,565,397,620"/>
+<area shape="poly" id="edge18_Node000000_Node000021" title=" " alt="" coords="52,1181,58,1064,72,900,84,816,100,739,121,675,133,650,146,631,171,611,174,615,150,634,137,653,125,677,105,740,90,816,78,900,63,1064,57,1181"/>
+<area shape="rect" id="Node000022" href="$classapp_1_1central_1_1central__schemas_1_1OdkEntitiesUpdate.html" title=" " alt="" coords="179,645,392,685"/>
+<area shape="poly" id="edge19_Node000000_Node000022" title=" " alt="" coords="52,1181,59,1075,75,930,88,856,103,788,122,733,146,695,177,674,180,678,150,699,127,735,108,790,93,857,81,930,65,1076,58,1181"/>
+<area shape="rect" id="Node000023" href="$classapp_1_1db_1_1models_1_1DbBackgroundTask.html" title=" " alt="" coords="162,709,409,735"/>
+<area shape="poly" id="edge20_Node000000_Node000023" title=" " alt="" coords="53,1181,61,1084,78,953,90,887,105,827,124,777,146,744,161,733,164,737,150,748,129,780,110,828,95,888,83,954,66,1085,58,1181"/>
+<area shape="rect" id="Node000026" href="$classapp_1_1db_1_1models_1_1DbBasemap.html" title=" " alt="" coords="185,759,386,784"/>
+<area shape="poly" id="edge23_Node000000_Node000026" title=" " alt="" coords="54,1180,63,1093,81,977,94,919,108,866,126,823,146,793,164,781,184,772,186,777,166,785,150,797,130,825,113,867,99,920,86,978,69,1094,59,1181"/>
+<area shape="rect" id="Node000030" href="$classapp_1_1db_1_1models_1_1DbGeometryLog.html" title=" " alt="" coords="171,808,399,833"/>
+<area shape="poly" id="edge27_Node000000_Node000030" title=" " alt="" coords="55,1181,66,1103,85,1001,111,905,128,868,146,843,170,827,173,832,150,847,132,871,116,907,90,1002,71,1103,60,1181"/>
+<area shape="rect" id="Node000031" href="$classapp_1_1db_1_1models_1_1DbOdkEntities.html" title=" " alt="" coords="178,857,393,883"/>
+<area shape="poly" id="edge28_Node000000_Node000031" title=" " alt="" coords="51,1181,54,1121,66,1043,78,1002,95,962,118,925,146,893,177,875,179,880,150,897,122,928,100,965,83,1004,72,1044,59,1122,56,1181"/>
+<area shape="rect" id="Node000014" href="$classapp_1_1db_1_1models_1_1DbOrganisation.html" title=" " alt="" coords="485,332,707,357"/>
+<area shape="poly" id="edge29_Node000000_Node000014" title=" " alt="" coords="52,1181,61,1006,78,748,91,619,106,505,124,419,135,390,146,372,170,357,203,346,290,334,389,331,485,334,485,339,389,336,290,339,204,351,172,362,150,376,140,392,130,420,112,506,96,619,84,749,66,1006,58,1181"/>
+<area shape="rect" id="Node000032" href="$classapp_1_1db_1_1models_1_1DbOrganisationManagers.html" title=" " alt="" coords="174,907,397,947"/>
+<area shape="poly" id="edge31_Node000000_Node000032" title=" " alt="" coords="53,1180,61,1132,77,1072,104,1010,123,982,146,957,172,941,175,945,150,961,127,985,109,1013,82,1073,66,1133,59,1181"/>
+<area shape="rect" id="Node000018" href="$classapp_1_1db_1_1models_1_1DbProject.html" title=" " alt="" coords="193,451,378,476"/>
+<area shape="poly" id="edge32_Node000000_Node000018" title=" " alt="" coords="51,1181,51,1037,61,829,72,721,90,623,114,542,129,511,146,487,167,471,192,462,194,467,170,476,150,491,133,513,119,544,95,624,78,722,66,829,57,1037,56,1181"/>
+<area shape="rect" id="Node000033" href="$classapp_1_1db_1_1models_1_1DbProjectTeam.html" title=" " alt="" coords="175,972,395,997"/>
+<area shape="poly" id="edge37_Node000000_Node000033" title=" " alt="" coords="56,1181,66,1141,83,1094,109,1046,126,1025,146,1006,174,992,177,996,150,1011,130,1029,114,1049,88,1096,71,1143,61,1182"/>
+<area shape="rect" id="Node000037" href="$classapp_1_1db_1_1models_1_1DbProjectTeamUser.html" title=" " alt="" coords="160,1021,411,1047"/>
+<area shape="poly" id="edge41_Node000000_Node000037" title=" " alt="" coords="60,1180,73,1151,91,1117,116,1083,146,1056,168,1044,171,1049,150,1060,120,1087,96,1120,78,1153,65,1182"/>
+<area shape="rect" id="Node000038" href="$classapp_1_1db_1_1models_1_1DbTask.html" title=" " alt="" coords="201,1071,370,1096"/>
+<area shape="poly" id="edge42_Node000000_Node000038" title=" " alt="" coords="68,1182,100,1142,122,1121,147,1105,173,1094,200,1087,201,1092,174,1099,149,1110,126,1126,104,1145,72,1185"/>
+<area shape="rect" id="Node000040" href="$classapp_1_1db_1_1models_1_1DbTaskEvent.html" title=" " alt="" coords="182,1120,389,1145"/>
+<area shape="poly" id="edge44_Node000000_Node000040" title=" " alt="" coords="83,1185,114,1169,147,1154,189,1143,190,1148,149,1159,116,1173,86,1190"/>
+<area shape="rect" id="Node000043" href="$classapp_1_1db_1_1models_1_1DbUser.html" title=" " alt="" coords="200,1169,371,1195"/>
+<area shape="poly" id="edge47_Node000000_Node000043" title=" " alt="" coords="114,1198,200,1189,200,1194,114,1203"/>
+<area shape="rect" id="Node000047" href="$classapp_1_1db_1_1models_1_1DbUserRole.html" title=" " alt="" coords="186,1219,385,1244"/>
+<area shape="poly" id="edge51_Node000000_Node000047" title=" " alt="" coords="115,1211,186,1218,185,1224,114,1216"/>
+<area shape="rect" id="Node000049" href="$classapp_1_1db_1_1models_1_1DbXLSForm.html" title=" " alt="" coords="187,1268,384,1293"/>
+<area shape="poly" id="edge53_Node000000_Node000049" title=" " alt="" coords="88,1224,149,1253,196,1265,195,1271,147,1258,85,1229"/>
+<area shape="rect" id="Node000050" href="$classapp_1_1organisations_1_1organisation__schemas_1_1OrgManagersOut.html" title=" " alt="" coords="174,1318,397,1358"/>
+<area shape="poly" id="edge54_Node000000_Node000050" title=" " alt="" coords="73,1230,106,1268,127,1287,149,1302,178,1316,176,1320,147,1307,123,1291,102,1271,69,1233"/>
+<area shape="rect" id="Node000051" href="$classapp_1_1organisations_1_1organisation__schemas_1_1OrganisationOut.html" title=" " alt="" coords="174,1382,397,1422"/>
+<area shape="poly" id="edge55_Node000000_Node000051" title=" " alt="" coords="64,1232,76,1264,94,1301,118,1337,150,1368,175,1382,173,1387,146,1372,114,1341,89,1303,71,1266,59,1234"/>
+<area shape="rect" id="Node000052" href="$classapp_1_1projects_1_1project__schemas_1_1BackgroundTaskStatus.html" title=" " alt="" coords="166,1446,405,1486"/>
+<area shape="poly" id="edge56_Node000000_Node000052" title=" " alt="" coords="60,1234,68,1277,85,1331,111,1386,129,1411,150,1432,167,1444,164,1448,146,1436,125,1414,106,1389,80,1333,63,1279,55,1235"/>
+<area shape="rect" id="Node000053" href="$classapp_1_1projects_1_1project__schemas_1_1BasemapGenerate.html" title=" " alt="" coords="179,1510,391,1550"/>
+<area shape="poly" id="edge57_Node000000_Node000053" title=" " alt="" coords="57,1233,62,1289,76,1360,87,1397,103,1433,124,1467,150,1496,181,1515,178,1520,146,1500,120,1470,99,1436,82,1399,70,1361,56,1289,52,1234"/>
+<area shape="rect" id="Node000054" href="$classapp_1_1projects_1_1project__schemas_1_1GeometryLogIn.html" title=" " alt="" coords="190,1574,381,1614"/>
+<area shape="poly" id="edge58_Node000000_Node000054" title=" " alt="" coords="60,1233,72,1309,91,1407,118,1501,133,1536,150,1560,169,1574,191,1583,189,1588,166,1579,146,1564,128,1539,113,1502,86,1409,67,1310,55,1234"/>
+<area shape="rect" id="Node000055" href="$classapp_1_1projects_1_1project__schemas_1_1PaginatedProjectSummaries.html" title=" " alt="" coords="148,1638,423,1678"/>
+<area shape="poly" id="edge59_Node000000_Node000055" title=" " alt="" coords="59,1233,69,1322,87,1439,114,1552,131,1595,150,1624,164,1636,161,1640,146,1628,126,1598,109,1553,82,1440,63,1322,54,1234"/>
+<area shape="rect" id="Node000056" href="$classapp_1_1projects_1_1project__schemas_1_1PaginationInfo.html" title=" " alt="" coords="193,1702,377,1742"/>
+<area shape="poly" id="edge60_Node000000_Node000056" title=" " alt="" coords="58,1234,66,1334,83,1471,95,1540,110,1603,128,1654,150,1688,170,1703,194,1713,192,1718,167,1708,146,1692,124,1656,105,1604,90,1541,77,1472,61,1335,53,1234"/>
+<area shape="rect" id="Node000057" href="$classapp_1_1projects_1_1project__schemas_1_1ProjectSummary.html" title=" " alt="" coords="186,1766,385,1806"/>
+<area shape="poly" id="edge61_Node000000_Node000057" title=" " alt="" coords="57,1234,63,1346,78,1502,90,1581,106,1654,126,1713,137,1735,150,1752,167,1766,187,1775,185,1780,164,1770,146,1756,133,1738,121,1715,101,1655,85,1582,73,1502,58,1346,52,1234"/>
+<area shape="rect" id="Node000058" href="$classapp_1_1projects_1_1project__schemas_1_1ProjectTeamUser.html" title=" " alt="" coords="185,1830,386,1870"/>
+<area shape="poly" id="edge62_Node000000_Node000058" title=" " alt="" coords="57,1233,61,1357,74,1532,86,1622,102,1704,123,1771,136,1797,150,1816,166,1830,186,1839,183,1844,163,1834,146,1820,131,1800,118,1773,97,1705,81,1623,69,1533,56,1357,52,1233"/>
+<area shape="rect" id="Node000059" href="$classapp_1_1projects_1_1project__schemas_1_1ProjectUserContributions.html" title=" " alt="" coords="159,1894,412,1934"/>
+<area shape="poly" id="edge63_Node000000_Node000059" title=" " alt="" coords="57,1234,59,1368,70,1563,82,1663,98,1755,121,1830,135,1859,150,1880,163,1892,160,1896,146,1884,130,1861,116,1832,93,1756,77,1664,65,1564,53,1369,51,1234"/>
+<area shape="rect" id="Node000060" href="$classapp_1_1submissions_1_1submission__schemas_1_1PaginatedSubmissions.html" title=" " alt="" coords="167,1958,404,1998"/>
+<area shape="poly" id="edge64_Node000000_Node000060" title=" " alt="" coords="56,1234,57,1380,66,1594,78,1704,95,1805,119,1888,133,1920,150,1944,168,1959,165,1963,146,1948,129,1923,114,1890,89,1807,72,1705,61,1594,51,1380,51,1234"/>
+<area shape="rect" id="Node000061" href="$classapp_1_1submissions_1_1submission__schemas_1_1PaginationInfo.html" title=" " alt="" coords="181,2022,390,2062"/>
+<area shape="poly" id="edge65_Node000000_Node000061" title=" " alt="" coords="58,1233,68,1402,87,1649,100,1773,115,1882,132,1964,141,1992,150,2008,164,2021,182,2030,179,2035,161,2025,146,2012,136,1994,127,1966,109,1883,95,1773,82,1649,63,1402,53,1234"/>
+<area shape="rect" id="Node000062" href="$classapp_1_1submissions_1_1submission__schemas_1_1ReviewStateIn.html" title=" " alt="" coords="181,2086,390,2126"/>
+<area shape="poly" id="edge66_Node000000_Node000062" title=" " alt="" coords="58,1234,67,1414,85,1682,98,1816,113,1935,130,2024,140,2054,150,2072,164,2085,182,2094,179,2099,161,2089,146,2076,135,2057,125,2026,108,1935,92,1817,80,1682,61,1415,52,1234"/>
+<area shape="rect" id="Node000063" href="$classapp_1_1submissions_1_1submission__schemas_1_1ReviewStateOut.html" title=" " alt="" coords="181,2150,390,2190"/>
+<area shape="poly" id="edge67_Node000000_Node000063" title=" " alt="" coords="58,1233,66,1426,83,1713,96,1859,111,1987,129,2084,139,2117,150,2136,164,2149,182,2158,179,2163,161,2153,146,2140,134,2119,124,2086,106,1988,90,1859,78,1714,60,1426,52,1234"/>
+<area shape="rect" id="Node000064" href="$classapp_1_1submissions_1_1submission__schemas_1_1SubmissionDashboard.html" title=" " alt="" coords="167,2214,403,2254"/>
+<area shape="poly" id="edge68_Node000000_Node000064" title=" " alt="" coords="57,1234,64,1438,81,1746,93,1902,109,2040,128,2144,139,2179,150,2200,168,2216,165,2220,146,2204,134,2181,123,2146,104,2041,88,1903,76,1747,59,1438,52,1234"/>
+<area shape="rect" id="Node000065" href="$classapp_1_1tasks_1_1task__schemas_1_1TaskEventCount.html" title=" " alt="" coords="178,2278,393,2318"/>
+<area shape="poly" id="edge69_Node000000_Node000065" title=" " alt="" coords="57,1234,63,1449,79,1778,91,1945,107,2092,127,2204,138,2242,150,2264,163,2276,179,2285,176,2290,160,2280,146,2268,133,2244,122,2206,102,2093,86,1945,74,1778,58,1450,52,1234"/>
+<area shape="rect" id="Node000066" href="$classapp_1_1users_1_1user__schemas_1_1PaginatedUsers.html" title=" " alt="" coords="160,2342,411,2382"/>
+<area shape="poly" id="edge70_Node000000_Node000066" title=" " alt="" coords="57,1234,62,1461,77,1810,89,1988,105,2145,125,2264,137,2304,150,2328,163,2340,159,2344,146,2332,132,2306,120,2266,100,2146,84,1988,72,1810,57,1461,52,1234"/>
+<area shape="rect" id="Node000067" href="$classapp_1_1users_1_1user__schemas_1_1UserRole.html" title=" " alt="" coords="163,2407,408,2432"/>
+<area shape="poly" id="edge71_Node000000_Node000067" title=" " alt="" coords="57,1234,61,1473,74,1843,86,2032,102,2198,124,2325,136,2367,150,2392,164,2404,161,2408,146,2396,131,2369,118,2326,97,2199,81,2032,69,1843,56,1473,52,1234"/>
+<area shape="rect" id="Node000068" href="$classapp_1_1users_1_1user__schemas_1_1Usernames.html" title=" " alt="" coords="155,2456,415,2481"/>
+<area shape="poly" id="edge72_Node000000_Node000068" title=" " alt="" coords="57,1234,60,1482,73,1869,84,2066,101,2240,122,2372,136,2417,150,2443,163,2454,159,2458,146,2446,131,2419,117,2374,95,2241,79,2066,67,1869,55,1482,51,1234"/>
+<area shape="rect" id="Node000002" href="$classapp_1_1auth_1_1auth__schemas_1_1AuthUser.html" title=" " alt="" coords="475,55,717,80"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="421,50,475,55,475,60,421,56"/>
+<area shape="rect" id="Node000003" href="$classapp_1_1auth_1_1auth__schemas_1_1FMTMUser.html" title=" " alt="" coords="471,5,721,31"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="421,29,470,25,470,30,421,34"/>
+<area shape="rect" id="Node000006" href="$classapp_1_1central_1_1central__schemas_1_1EntityMappingStatus.html" title=" " alt="" coords="483,175,709,215"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="386,171,483,181,482,186,385,176"/>
+<area shape="poly" id="edge9_Node000007_Node000006" title=" " alt="" coords="385,214,482,204,483,210,385,220"/>
+<area shape="rect" id="Node000010" href="$classapp_1_1central_1_1central__schemas_1_1ODKCentralIn.html" title=" " alt="" coords="507,382,685,422"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="382,402,506,400,506,406,383,407"/>
+<area shape="rect" id="Node000011" href="$classapp_1_1organisations_1_1organisation__schemas_1_1OrganisationInBase.html" title=" " alt="" coords="769,333,992,373"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="698,382,769,369,770,375,699,387"/>
+<area shape="rect" id="Node000015" href="$classapp_1_1projects_1_1project__schemas_1_1ProjectIn.html" title=" " alt="" coords="805,411,956,451"/>
+<area shape="poly" id="edge15_Node000010_Node000015" title=" " alt="" coords="699,410,805,421,805,426,698,415"/>
+<area shape="rect" id="Node000017" href="$classapp_1_1projects_1_1project__schemas_1_1ProjectUpdate.html" title=" " alt="" coords="789,503,972,543"/>
+<area shape="poly" id="edge16_Node000010_Node000017" title=" " alt="" coords="700,423,722,432,747,445,771,461,843,501,840,506,768,466,744,450,720,436,698,428"/>
+<area shape="rect" id="Node000012" href="$classapp_1_1organisations_1_1organisation__schemas_1_1OrganisationIn.html" title=" " alt="" coords="1040,301,1263,341"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="1005,335,1040,331,1040,336,1006,341"/>
+<area shape="rect" id="Node000013" href="$classapp_1_1organisations_1_1organisation__schemas_1_1OrganisationUpdate.html" title=" " alt="" coords="1040,365,1263,405"/>
+<area shape="poly" id="edge14_Node000011_Node000013" title=" " alt="" coords="1006,365,1040,369,1040,374,1005,370"/>
+<area shape="rect" id="Node000024" href="$classapp_1_1projects_1_1project__schemas_1_1BackgroundTaskIn.html" title=" " alt="" coords="491,642,701,682"/>
+<area shape="poly" id="edge21_Node000023_Node000024" title=" " alt="" coords="369,704,422,694,496,679,497,685,423,699,370,709"/>
+<area shape="rect" id="Node000025" href="$classapp_1_1projects_1_1project__schemas_1_1BackgroundTaskUpdate.html" title=" " alt="" coords="474,578,718,618"/>
+<area shape="poly" id="edge22_Node000023_Node000025" title=" " alt="" coords="408,702,421,695,437,679,445,663,453,645,469,628,491,616,493,621,472,632,457,648,449,665,441,682,424,699,410,706"/>
+<area shape="rect" id="Node000027" href="$classapp_1_1projects_1_1project__schemas_1_1BasemapIn.html" title=" " alt="" coords="514,706,678,746"/>
+<area shape="poly" id="edge24_Node000026_Node000027" title=" " alt="" coords="386,754,513,735,514,741,387,759"/>
+<area shape="rect" id="Node000028" href="$classapp_1_1projects_1_1project__schemas_1_1BasemapOut.html" title=" " alt="" coords="509,770,683,810"/>
+<area shape="poly" id="edge25_Node000026_Node000028" title=" " alt="" coords="400,776,509,782,508,787,400,781"/>
+<area shape="rect" id="Node000029" href="$classapp_1_1projects_1_1project__schemas_1_1BasemapUpdate.html" title=" " alt="" coords="497,834,695,874"/>
+<area shape="poly" id="edge26_Node000026_Node000029" title=" " alt="" coords="396,785,424,793,448,806,472,820,507,831,505,837,470,824,445,811,422,798,395,790"/>
+<area shape="poly" id="edge30_Node000014_Node000011" title=" " alt="" coords="721,346,769,347,769,352,721,351"/>
+<area shape="rect" id="Node000016" href="$classapp_1_1projects_1_1project__schemas_1_1ProjectInBase.html" title=" " alt="" coords="506,510,686,550"/>
+<area shape="poly" id="edge33_Node000018_Node000016" title=" " alt="" coords="373,476,423,486,515,507,514,512,422,491,372,481"/>
+<area shape="rect" id="Node000019" href="$classapp_1_1projects_1_1project__schemas_1_1ProjectOut.html" title=" " alt="" coords="517,446,675,486"/>
+<area shape="poly" id="edge36_Node000018_Node000019" title=" " alt="" coords="392,462,516,463,516,468,392,467"/>
+<area shape="poly" id="edge34_Node000016_Node000015" title=" " alt="" coords="694,504,720,495,835,449,837,454,722,501,696,509"/>
+<area shape="poly" id="edge35_Node000016_Node000017" title=" " alt="" coords="700,525,789,523,789,528,700,530"/>
+<area shape="rect" id="Node000034" href="$classapp_1_1projects_1_1project__schemas_1_1ProjectTeam.html" title=" " alt="" coords="511,962,681,1002"/>
+<area shape="poly" id="edge38_Node000033_Node000034" title=" " alt="" coords="409,981,510,980,511,985,409,986"/>
+<area shape="rect" id="Node000035" href="$classapp_1_1projects_1_1project__schemas_1_1ProjectTeamOne.html" title=" " alt="" coords="497,898,695,938"/>
+<area shape="poly" id="edge39_Node000033_Node000035" title=" " alt="" coords="372,967,422,957,514,936,515,941,423,962,373,972"/>
+<area shape="rect" id="Node000036" href="$classapp_1_1projects_1_1project__schemas_1_1ProjectTeamIn.html" title=" " alt="" coords="789,898,972,938"/>
+<area shape="poly" id="edge40_Node000035_Node000036" title=" " alt="" coords="708,915,789,915,789,921,708,921"/>
+<area shape="rect" id="Node000039" href="$classapp_1_1tasks_1_1task__schemas_1_1TaskOut.html" title=" " alt="" coords="477,1027,715,1052"/>
+<area shape="poly" id="edge43_Node000038_Node000039" title=" " alt="" coords="383,1067,505,1049,506,1055,384,1072"/>
+<area shape="rect" id="Node000041" href="$classapp_1_1tasks_1_1task__schemas_1_1TaskEventIn.html" title=" " alt="" coords="489,1141,703,1181"/>
+<area shape="poly" id="edge45_Node000040_Node000041" title=" " alt="" coords="402,1141,489,1148,488,1154,402,1146"/>
+<area shape="rect" id="Node000042" href="$classapp_1_1tasks_1_1task__schemas_1_1TaskEventOut.html" title=" " alt="" coords="489,1077,703,1117"/>
+<area shape="poly" id="edge46_Node000040_Node000042" title=" " alt="" coords="402,1117,488,1106,489,1112,402,1122"/>
+<area shape="rect" id="Node000044" href="$classapp_1_1users_1_1user__schemas_1_1UserIn.html" title=" " alt="" coords="482,1205,710,1231"/>
+<area shape="poly" id="edge48_Node000043_Node000044" title=" " alt="" coords="385,1191,487,1203,486,1208,384,1196"/>
+<area shape="rect" id="Node000045" href="$classapp_1_1users_1_1user__schemas_1_1UserOut.html" title=" " alt="" coords="477,1255,715,1280"/>
+<area shape="poly" id="edge49_Node000043_Node000045" title=" " alt="" coords="385,1191,424,1204,439,1212,449,1222,458,1231,472,1240,508,1252,506,1257,470,1244,455,1235,445,1226,435,1217,422,1208,383,1196"/>
+<area shape="rect" id="Node000046" href="$classapp_1_1users_1_1user__schemas_1_1UserUpdate.html" title=" " alt="" coords="488,1305,704,1345"/>
+<area shape="poly" id="edge50_Node000043_Node000046" title=" " alt="" coords="385,1186,424,1204,443,1225,450,1247,456,1269,472,1289,494,1302,491,1307,469,1293,451,1272,445,1249,438,1227,421,1208,383,1191"/>
+<area shape="rect" id="Node000048" href="$classapp_1_1users_1_1user__schemas_1_1UserRolesOut.html" title=" " alt="" coords="488,1369,704,1409"/>
+<area shape="poly" id="edge52_Node000047_Node000048" title=" " alt="" coords="399,1239,424,1253,437,1265,444,1279,450,1305,455,1331,461,1343,472,1355,490,1366,487,1371,469,1359,457,1346,450,1333,445,1306,439,1280,432,1269,421,1257,396,1244"/>
+</map>
